@@ -22,9 +22,9 @@ Source code and **configuration** can be found at [exampleSite](https://github.c
 ## Installation
 
 ```bash
-git submodule add https://github.com/maolonglong/hugo-simple.git themes/hugo-simple
+git submodule add https://github.com/frereit/hugo-simple.git themes/hugo-simple
 # OR
-hugo mod get github.com/maolonglong/hugo-simple
+hugo mod get github.com/frereit/hugo-simple
 ```
 
 ## Special Thanks 🎁
